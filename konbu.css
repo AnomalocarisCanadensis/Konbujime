@@ -12,7 +12,7 @@ header {
   width: 100%;
   height: 200px;
   text-align: left;
-  background-image: url("img/header.png");
+  background-image: url("https://github.com/AnomalocarisCanadensis/Konbujime/blob/main/header.png?raw=true");
   background-position: center top;
   background-size: cover;
 }
@@ -55,7 +55,7 @@ display: inline;
 .shop {
   width: 100%;
   height: 100%;
-  background-image: url(img/background.png);
+  background-image: url(https://github.com/AnomalocarisCanadensis/Konbujime/blob/main/background.png?raw=true);
   
 }
 
@@ -129,7 +129,7 @@ display: inline;
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
-  background-image: url(img/konbuheader.png);
+  background-image: url(https://github.com/AnomalocarisCanadensis/Konbujime/blob/main/konbuheader.png?raw=true
   opacity: 0.8;
 }
 
@@ -157,7 +157,7 @@ display: inline;
 }
 
 .chop {
-  background-image: url(img/random.jpeg);
+  background-image: url(https://github.com/AnomalocarisCanadensis/Konbujime/blob/main/random.jpeg?raw=true);
   font-size: 20px;
   line-height:40px;
   padding: 30px;

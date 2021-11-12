@@ -1,0 +1,170 @@
+html {
+  height: 100%;
+}
+
+.wf-roundedmplus1c { font-family: "M PLUS Rounded 1c"; }
+
+* {
+  margin:0; padding:0;
+}
+
+header {
+  width: 100%;
+  height: 200px;
+  text-align: left;
+  background-image: url("img/header.png");
+  background-position: center top;
+  background-size: cover;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: #174a5c;
+  color: #ffffff;
+  text-align: center;
+}
+
+.footer-menu li {
+display: inline;
+}
+
+.nav-list {
+  font-family: geo;
+  color: #ffffff;
+  height: 20px;
+  list-style: none;
+  font-weight: bold;
+  font-size: 20px
+    
+}
+.nav-list-item {
+  box-shadow: 2px 2px 4px #ffffff;
+  list-style: none;
+  display: inline-block;
+  margin: 10px;
+  border-radius: 7px;
+}
+
+.sns {
+  list-style: none;
+  display: inline-block;
+  position: absolute; right: 0px; top: 0px;
+}
+
+.shop {
+  width: 100%;
+  height: 100%;
+  background-image: url(img/background.png);
+  
+}
+
+.title {
+  font-size: 50px;
+  font-family: geo;
+  border-left-style: solid;
+  border-left-width: 10px;
+  padding-left: 15px;
+  margin-bottom: 80px;
+  color: #ffffff;
+  background-color: #000000;
+ 
+}
+
+
+.shop p {
+  font-family: stoke;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  opacity: 0.8;
+  border-width: 5px;
+  border: 5px double #FFF5EE; 
+  padding: 10px;
+  margin: 30px;
+  background-color:rgba(0,0,0,0.65);
+ }
+
+
+.shop img {
+  float: right;
+}
+
+
+.list{
+  display: inline-block;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.photo {
+  padding: 20px;
+  background-color: #000000;
+}
+
+
+.photo h2 {
+  font-size: 50px;
+  font-family: geo;
+  border-left-style: solid;
+  border-left-width: 10px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  background-position: center top;
+  
+  }
+
+.photo h3 {
+  font-size: 20px;
+  font-family: geo;
+  color: #000000;
+  border-color: #ffffff;
+  margin: 20px;
+}
+
+
+.photo h4{
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-image: url(img/konbuheader.png);
+  opacity: 0.8;
+}
+
+
+.photo p {
+  color: #ffffff;
+  clear: right;
+}
+
+.photo div {
+  background-color: #ffffff;
+  width: 240px;
+  margin: 10px;
+  box-shadow: 10px 10px 20px #000000;
+}
+
+.bdstyle {
+  font-family: "cursive";
+  border: 5px double #FFF5EE; 
+  padding: 10px;
+  margin: 30px;
+  color: #ffffff;
+  background-color:rgba(0,0,0,0.65);
+  opacity: 0.8;
+}
+
+.chop {
+  background-image: url(img/random.jpeg);
+  font-size: 20px;
+  line-height:40px;
+  padding: 30px;
+  font-weight: bold;
+}
+
+a {
+  color: White;
+  text-decoration: none;
+}

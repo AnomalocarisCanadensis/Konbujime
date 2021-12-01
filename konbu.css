@@ -130,7 +130,7 @@ display: inline;
 
 .photo h4{
   background-repeat: no-repeat;
-  width: 100%;
+  width: 220px;
   height: 100%;
   margin-bottom: 20px;
   background-image: url(https://github.com/AnomalocarisCanadensis/Konbujime/blob/main/konbuheader.png?raw=true);
@@ -145,7 +145,7 @@ display: inline;
 
 .photo div {
   background-color: #ffffff;
-  width: 240px;
+  width: 220px;
   margin: 10px;
   box-shadow: 10px 10px 20px #000000;
 }

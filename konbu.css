@@ -130,6 +130,8 @@ display: inline;
 
 .photo h4{
   background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: top;
   width: 220px;
   height: 100%;
   margin-bottom: 20px;
@@ -148,8 +150,6 @@ display: inline;
   width: 220px;
   margin: 10px;
   box-shadow: 10px 10px 20px #000000;
-  display: inline-block;
-  vertical-align: top;
 }
 
 .bdstyle {
